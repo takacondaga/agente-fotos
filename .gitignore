@@ -1,0 +1,26 @@
+# Variables de entorno (contiene la GEMINI_API_KEY)
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Carpetas de imágenes descargadas
+Lavandas/
+Petunias/
+Dragones/
+Dragon/
+Tulipanes/
+Hortensias/
+Flores de lis/
+Rosas/
+Girasoles/
+Perros/
+Gatos/
+Autos/
+Atardeceres/

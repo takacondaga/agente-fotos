@@ -1,0 +1,5 @@
+ddgs>=9.16.1
+google-genai>=3.2.0
+pillow>=13.0.0
+python-dotenv>=1.2.4
+requests>=2.34.2
